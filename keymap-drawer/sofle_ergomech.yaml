@@ -57,9 +57,9 @@ layers:
   - SPACE
   - RETURN
   - raise
-  - '-'
-  - '='
-  - \
+  - {t: '-', h: RIGHT ALT}
+  - {t: '=', h: RIGHT GUI}
+  - {t: \, h: RIGHT CONTROL}
   - ENTER
   - RIGHT
   - UP ARROW
